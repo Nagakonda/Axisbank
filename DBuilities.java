@@ -1,3 +1,3 @@
 Hello evryone
 git cmnds are vary imp
-jcnms
+chnages in dvlopment branch
