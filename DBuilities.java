@@ -1,2 +1,3 @@
 Hello evryone
 git cmnds are vary imp
+jcnms
